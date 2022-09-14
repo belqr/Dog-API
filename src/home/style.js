@@ -41,9 +41,10 @@ export const Container = styled.div`
 
    @media (max-width: 425px) {
       .box-text-redirection {
-      padding: 50px 25px;
+      padding: 10px 25px;
       height: 90vh;
       flex-direction: column;
+      justify-content: center;
 
       img {
          width: 300px;
