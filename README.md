@@ -5,5 +5,5 @@
  
  ##
  ## 💠 View in:
-https://dog-ljl594ey0-belraposo.vercel.app/
+https://dog-api-blue.vercel.app/
 
